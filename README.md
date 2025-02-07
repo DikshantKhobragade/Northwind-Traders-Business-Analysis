@@ -1,4 +1,4 @@
-# Northwind-Traders-Buisiness-Analysis
+# Northwind-Traders-Business-Analysis
 ## Project Overview
 
 This project showcases a Power BI dashboard built using the Northwind Traders dataset. The dashboard provides key insights into the company's sales, revenue, and customer trends across different regions and categories. It serves as a powerful analytical tool for decision-making, enabling stakeholders to understand performance metrics and identify growth opportunities.
